@@ -1,6 +1,6 @@
 ### Hi there 👋, welcome to my GitHub profile.
 
-[![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfannariman)](https://github.com/anuraghazra/github-readme-stats)
+[![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfannariman&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on all the cool stuff we build at [Zypp](https://github.com/orgs/zypp-io).
 - 🌱 At the moment I am learning JavaScript since it's cool language for interaction and to bring our [webapps](https://www.zypp.io/solutions) to a next level.
