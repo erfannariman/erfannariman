@@ -7,5 +7,3 @@
 - 💬 Ask me about Data Analytics, Python, [advanced pandas problems](https://stackoverflow.com/users/9081267/erfan?tab=profile), data engineering and Azure.
 - 📫 How to reach me: erfannariman@gmail.com
 - 🧵 Fun fact: I like to play chess in my free time (although I am not very good at it)
-
-
